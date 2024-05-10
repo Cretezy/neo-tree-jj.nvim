@@ -28,6 +28,7 @@ end
 
 local M = {
 	wrap = utils.wrap,
+	is_real_file = utils.is_real_file,
 }
 
 --- Get jj repository root
